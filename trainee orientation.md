@@ -1,10 +1,10 @@
-**Trainee Orientation Document**
+# Trainee Orientation Document
 
 author: Naeha Subramanian
 
 last updated: April 12, 2023
 
-**Overview**
+## Overview
 
 It is my responsibility to provide you with the resources, mentoring and
 support you need to carry out and publish high-quality research and
@@ -19,7 +19,7 @@ time. Please keep me updated on your scientific and personal
 aspirations. If you need anything (a piece of equipment, more time with
 me, collaborators, etc.), ask and I'll do my best to provide.
 
-**My responsibilities and traits**
+## My responsibilities and traits
 
 In addition to the above:
 
@@ -63,7 +63,7 @@ In addition to the above:
     rotation students, interns, and visiting scientists with short
     planned stays).
 
-**Lab culture and expectations**
+## Lab culture and expectations
 
 Please help me create and maintain a vibrant research environment that
 is intellectually stimulating, rigorous, productive, collaborative, fun,
@@ -154,14 +154,14 @@ and quietly.
     cultivate your life outside of work. Academic life can be stressful.
     Arrange vacation time. Keep me in the loop if you feel burnt out.
 
-**Commitment to excellence**
+## Commitment to excellence
 
 Hold yourself to the highest standards in terms of reproducibility,
 innovation, and clarity. With gentleness and compassion, hold other lab
 members to these standards as well. Let's work together to produce high
 quality science that our colleagues can look up to.
 
-**Meetings**
+## Meetings
 
 Besides the group meetings, every member will at least have a 1-hour
 slot per week to have a private meeting with me. Unless I am traveling
@@ -183,7 +183,7 @@ effectively working towards your career goals. When the time comes for
 you to start looking for another position, we can discuss how to put
 together your application and how to best highlight your strengths.
 
-**Timelines and productivity**
+## Timelines and productivity
 
 **Postdocs:** I expect that you have at least 3 full years where
 research in this lab is your primary focus (this can vary slightly
@@ -251,7 +251,7 @@ completing experiments or analyses related to your project,
 dependability, having an excellent work ethic and maintaining a high
 quality of work are a must.
 
-**Informal and formal mentorship and collaboration**
+## Informal and formal mentorship and collaboration
 
 Research Scientists, Postdocs and senior graduate students play an
 important role in the education of more junior trainees (high school,
@@ -273,7 +273,7 @@ workload) and design projects for them. Internships can take many forms.
 The only requirement is that they must present their projects at least
 once at lab meeting.
 
-**Working with collaborators**
+## Working with collaborators
 
 Please let me know before you reach out to a potential collaborator and
 CC me on key emails. When contacting collaborators, you are representing
@@ -283,7 +283,7 @@ If someone is asking you to do something outside of the lab, tell them
 to ask me first. This is not only to protect you, but also to protect
 the lab and its intellectual mojo.
 
-**Conferences and Presentations**
+## Conferences and Presentations
 
 I will provide financial assistance for you to attend about 1 big
 conference per year and multiple small, local ones as finances permit
@@ -294,7 +294,7 @@ front of a group at least once before presenting for wider audiences,
 lab and its members when you are at meetings inside and outside of the
 institute. Make your fellow labmates proud with your excellence.
 
-**Documentation of experiments and analysis**
+## Documentation of experiments and analysis
 
 Be sure to document your wet-lab and dry-lab work so that another
 scientist is able to reproduce your experiments/analyses. I prefer that
@@ -305,7 +305,7 @@ computational work (e.g. ipython notebooks or R markdown) on a Github
 repository is a great way to keep track of your code with version
 control.
 
-**Sharing data and code**
+## Sharing data and code
 
 Writing code that is useable by others is hard, but I hope we can work
 together to minimize duplication. Take the time to write basic
@@ -319,7 +319,7 @@ and code can be made available to lab members and collaborators, as
 needed. I encourage you to make your code publicly available when
 preprints are uploaded.
 
-**Communicating your science to the public**
+## Communicating your science to the public
 
 I encourage people to write blog posts and popular science articles to
 highlight your work to a broader audience. I would prefer that you share
@@ -332,7 +332,7 @@ to talk with journalists about your work, but try to let me know
 beforehand. Always be mindful that you are representing the lab. Be
 engaging, but try not to over-hype your results.
 
-**Project ownership when leaving lab**
+## Project ownership when leaving lab
 
 If you embark on a project of your own design when in the lab and want
 to extend in this direction for your own academic career, please bring
