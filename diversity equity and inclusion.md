@@ -68,17 +68,12 @@ following set of actions:
     culturally informed.
 
 -   We engage in outreach and community involvement, including K-12
-    curriculum development with [[ISB
-    Education]{.underline}](https://isbscience.org/education/) and
-    Washington State Public Schools, the [[ISB summer internship
-    program]{.underline}](https://isbscience.org/about/careers/internships/),
-    and [UW 499 Undergraduate research
-    program](https://www.washington.edu/undergradresearch/).
+    curriculum development with [ISB Education](https://isbscience.org/education/) and
+    Washington State Public Schools, the [ISB summer internship program](https://isbscience.org/about/careers/internships/),
+    and [UW 499 Undergraduate research program](https://www.washington.edu/undergradresearch/).
 
 -   We acknowledge the existence of our unconscious biases and strive to
-    identify and overcome them. [[Check out this resource, designed to
-    help you understand your own unconscious
-    biases]{.underline}](https://implicit.harvard.edu/implicit/takeatest.html).
+    identify and overcome them. [Check out this resource, designed to help you understand your own unconscious biases](https://implicit.harvard.edu/implicit/takeatest.html).
 
 -   We will always do our best to be kind and generous, and to
     acknowledge that we are fallible beings who will make mistakes that
@@ -98,47 +93,28 @@ Coastal Salish people, including the Duwamish People past and present.
 We honor with gratitude the land itself and the Duwamish Tribe. This
 acknowledgement does not take the place of authentic relationships with
 indigenous communities, but serves as a first step in honoring the land
-we are on. [[Here is a resource that allows you to find out more about
-the native/indigenous peoples who reside/resided in your
-area]{.underline}](https://native-land.ca/).
+we are on. [Here is a resource that allows you to find out more about the native/indigenous peoples who reside/resided in your area](https://native-land.ca/).
 
 ## Resources
 
 Below are some key resources and information:
 
--   Institute for Systems Biology [[Core
-    Values]{.underline}](https://isbscience.org/about/core-values-goals/)
+-   Institute for Systems Biology [Core Values](https://isbscience.org/about/core-values-goals/)
 
--   Diversity, Equity, and Inclusion [[Resources at the University of
-    Washington]{.underline}](https://www.washington.edu/diversity/)
+-   Diversity, Equity, and Inclusion [Resources at the University of Washington](https://www.washington.edu/diversity/)
 
--   [[Washington STEM]{.underline}](https://washingtonstem.org/)
+-   [Washington STEM](https://washingtonstem.org/)
 
--   Women Who
-    Code: [[Seattle]{.underline}](https://www.womenwhocode.com/seattle)
+-   Women Who Code: [Seattle](https://www.womenwhocode.com/seattle)
 
--   Reading List: [[\"The Fire Next Time\", by James
-    Baldwin]{.underline}](https://www.penguinrandomhouse.com/books/7753/the-fire-next-time-by-james-baldwin/), [[\"A
-    Lab of One\'s Own: One Woman\'s Personal Journey Through Sexism in
-    Science\", by Dr. Rita Colwell and Sharon Bertsch
-    McGrayne]{.underline}](https://www.indiebound.org/book/9781501181276), [[reading
-    list]{.underline}](http://merenlab.org/2020/10/05/reading-list/) curated
-    by the Meren Lab, [Hidden Figures by Margot Lee
-    Shetterly](https://bookshop.org/p/books/hidden-figures-the-american-dream-and-the-untold-story-of-the-black-women-mathematicians-who-helped-win-the-space-race-margot-lee-shetterly/6435103?ean=9780062363602)
+-   Reading List: ["The Fire Next Time", by James Baldwin](https://www.penguinrandomhouse.com/books/7753/the-fire-next-time-by-james-baldwin/), ["A Lab of One's Own: One Woman's Personal Journey Through Sexism in Science", by Dr. Rita Colwell and Sharon Bertsch McGrayne](https://www.indiebound.org/book/9781501181276), [reading list](http://merenlab.org/2020/10/05/reading-list/) curated
+    by the Meren Lab, [Hidden Figures by Margot Lee Shetterly](https://bookshop.org/p/books/hidden-figures-the-american-dream-and-the-untold-story-of-the-black-women-mathematicians-who-helped-win-the-space-race-margot-lee-shetterly/6435103?ean=9780062363602)
 
--   Viewing list: [Picture a
-    Scientist](https://www.pictureascientist.com/) directed by Ian
-    Cheney & Sharon Shattuck, [The Evolution and Meanings of Human Skin
-    Color by Nina
-    Jablonski](https://www.youtube.com/watch?v=sc4OFcT5m1Y), [Hidden
-    Figures](https://www.imdb.com/title/tt4846340/) directed by Theodore
-    Melfi
+-   Viewing list: [Picture a Scientist](https://www.pictureascientist.com/) directed by Ian
+    Cheney & Sharon Shattuck, [The Evolution and Meanings of Human Skin Color by Nina Jablonski](https://www.youtube.com/watch?v=sc4OFcT5m1Y), [Hidden Figures](https://www.imdb.com/title/tt4846340/) directed by Theodore Melfi
 
--   [[Contact the Subramanian
-    Lab]{.underline}](https://subramanian.isbscience.org/contact/)
+-   [Contact the Subramanian Lab](https://subramanian.isbscience.org/contact/)
 
 *This document was adapted from a similar document originally written
-by [[Ashley
-Shade]{.underline}](https://ashley17061.wixsite.com/shadelab/dei) and
-updated by [Sean
-Gibbons](https://github.com/Gibbons-Lab/manuals-and-policies/blob/master/diversity_equity_and_inclusion.md).*
+by [Ashley Shade](https://ashley17061.wixsite.com/shadelab/dei) and
+updated by [Sean Gibbons](https://github.com/Gibbons-Lab/manuals-and-policies/blob/master/diversity_equity_and_inclusion.md).*
